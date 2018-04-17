@@ -1,0 +1,19 @@
+@page "{id:int}"
+@model EditPeopleModel
+@{ }
+<br>
+<br>
+<form method="POST" class="form-horizontal">
+    <input type="hidden" asp-for="People.Id">
+    <div class="form-group">
+        <label>Digite o nome:</label>
+        <input asp-for="People.Name" type="text" class="form-control"> 
+        <span asp-validation-for="People.Name"></span>          
+    </div>
+    <button type="submit" class="btn btn-primary">Atualizar</button>
+    <a asp-page="/Peoples" class="btn btn-info"><< Voltar</a>
+</form>
+@section Scripts {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+}

@@ -1,0 +1,10 @@
+/home/fulvio/Documents/appWeb/bin/Debug/netcoreapp2.0/appWeb.deps.json
+/home/fulvio/Documents/appWeb/bin/Debug/netcoreapp2.0/appWeb.runtimeconfig.json
+/home/fulvio/Documents/appWeb/bin/Debug/netcoreapp2.0/appWeb.runtimeconfig.dev.json
+/home/fulvio/Documents/appWeb/bin/Debug/netcoreapp2.0/appWeb.dll
+/home/fulvio/Documents/appWeb/bin/Debug/netcoreapp2.0/appWeb.pdb
+/home/fulvio/Documents/appWeb/obj/Debug/netcoreapp2.0/appWeb.csproj.CoreCompileInputs.cache
+/home/fulvio/Documents/appWeb/obj/Debug/netcoreapp2.0/appWeb.AssemblyInfoInputs.cache
+/home/fulvio/Documents/appWeb/obj/Debug/netcoreapp2.0/appWeb.AssemblyInfo.cs
+/home/fulvio/Documents/appWeb/obj/Debug/netcoreapp2.0/appWeb.dll
+/home/fulvio/Documents/appWeb/obj/Debug/netcoreapp2.0/appWeb.pdb
